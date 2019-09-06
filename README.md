@@ -1,2 +1,3 @@
 ﻿# github-test
-第一个git仓库,用于练习使用github
+第一个github托管项目,用于练习使用github
+增加了ssh免密登录
